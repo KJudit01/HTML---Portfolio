@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-size: 10rem;
+    text-align: center;
+  }
+  p{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    font-size: 5rem;
+  }
+  #kep{
+    border-color: white;
+    border: 20px solid white;
+    margin: auto;
+    margin-left: 1400px;
+  }
